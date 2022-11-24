@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 22" width="113" height="22">
+	<title>Proyecto nuevo</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "Economica-Regular", "Economica" } 
+	</style>
+	<text id="Pirate Box" style="transform: matrix(1,0,0,1,17.554,19.512)" >
+		<tspan x="0" y="0" class="t0">P</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">B</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">x</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="Text layer 10" style="transform: matrix(1,0,0,1,-20,16)" >
+	</text>
+</svg>
